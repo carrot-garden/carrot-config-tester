@@ -2,7 +2,7 @@
 
 	<echo message="basedir : ${basedir}" />
 
-	<property name="tag" value="1.0.2" />
+	<property name="tag" value="1.0.3" />
 
 	<target name="git">
 
