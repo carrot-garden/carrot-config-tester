@@ -1,3 +1,4 @@
 ### info
 
-master - carrot private configuration store
+store tagged configuration in this "master" branch
+ 
