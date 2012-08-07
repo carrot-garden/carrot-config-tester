@@ -1,3 +1,3 @@
 ### info
 
-master - carrot private configuration store
+make version selection in this "version" branch
